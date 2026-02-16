@@ -2,6 +2,8 @@
 
 A modern, full-featured Progressive Web Application for Dr. Anshita Singh Rathore's Homeopathic Clinic.
 
+**Live Demo:** [https://clinic-47sztokei-invicis-projects.vercel.app](https://clinic-47sztokei-invicis-projects.vercel.app)
+
 ## 🌟 Features
 
 ### Patient-Facing Features
@@ -10,6 +12,7 @@ A modern, full-featured Progressive Web Application for Dr. Anshita Singh Rathor
 - **Health Blog** - Educational articles on homeopathy and wellness
 - **Clinic Locations** - Interactive maps and contact information
 - **Contact Form** - Easy communication with the clinic
+- **AI Chatbot** - Integrated health assistant for booking and queries
 
 ### Technical Features
 - **Progressive Web App (PWA)** - Installable, works offline
@@ -67,7 +70,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/JSR2406/DOCTOR-CLINIC-APPOINTMENT-WEBSITE-.git
 
 # Install dependencies
 npm install
@@ -85,7 +88,7 @@ Create a `.env.local` file with:
 
 ```env
 DATABASE_URL="postgresql://..."
-NEXT_PUBLIC_SITE_URL="https://www.dranshitarathore.com"
+NEXT_PUBLIC_SITE_URL="https://clinic-47sztokei-invicis-projects.vercel.app"
 ```
 
 ## 📱 PWA Installation
